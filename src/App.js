@@ -12,6 +12,7 @@ function App() {
       <header className="App-header">
           /* Adding Items*/
           <AddItem />
+           /* Adding To DO List*/
           <ToDoList />
       </header>
     </div>
