@@ -1,3 +1,6 @@
+* {
+  box-sizzing: border-box;
+}
 .App {
   text-align: center;
 }
